@@ -18,3 +18,7 @@ Private Clouds sind Cloud-Umgebungen die nur einem Endbenutzer zugeteilt werden.
 ---
 #### Hybrid Clouds
 Bei diesem Cloud Model verwendet der User mindestens eine Private und eine Public CLoud. Das hat den vorteil das man die flexibilität der Public Cloud nutzen kann und gleichzeitig die Sicherheit und den guten Datenschutz der Private Cloud.
+
+---
+#### On Premise 
+On Premise beschreibt nicht anderes als das betreiben von IT-Ifrastrukturen vor Ort also sie selbst zu betreiben.
